@@ -1,6 +1,7 @@
 # Bigram-Autofill
-A simple UI to auto-filling program using Bigram model
+A simple UI to auto-filling program using Bigram model.
 
 
-![1](https://user-images.githubusercontent.com/74675412/180661815-8a4b00ce-dc17-43e5-96c3-be474a838968.PNG)
-![11](https://user-images.githubusercontent.com/74675412/180661816-31fa9e63-6459-4a8d-b319-34b53d26ec94.PNG)
+
+![11](https://user-images.githubusercontent.com/74675412/180661870-b408151e-b643-4bb1-a63a-90c5e7a50aef.PNG)
+![1](https://user-images.githubusercontent.com/74675412/180661872-5f2c4e5b-1dcc-4b6b-9357-d2ef47a1fb76.PNG)
